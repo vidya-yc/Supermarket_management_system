@@ -36,24 +36,6 @@ Tools Used: Eclipse / IntelliJ IDEA / NetBeans (replace based on your IDE)
 
 Database Connector: JDBC (Java Database Connectivity)
 
-🚀 How to Run
-
-Clone the repository:
-
-git clone https://github.com/yourusername/supermarket-management-java.git
-
-Open the project in your preferred Java IDE.
-
-Import the MySQL database from the provided .sql file.
-
-Update the database connection details in the code:
-
-String url = "jdbc:mysql://localhost:3306/supermarket";
-String username = "root";
-String password = "your_password";
-
-Run the Main.java file.
-
 📊 Database Structure
 
 Products Table: Product ID, Name, Quantity, Price
